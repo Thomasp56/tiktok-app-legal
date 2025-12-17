@@ -1,3 +1,8 @@
+---
+layout: default
+title: TikTok App
+---
+
 # TikTok App
 
 Welcome to our TikTok integration application.
