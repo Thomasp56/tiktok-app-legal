@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Privacy Policy
+title: Privacy Policy - Quote & Faith
 ---
 
-# Privacy Policy
+# Privacy Policy for Quote & Faith
 
-**Last updated: December 17, 2024**
+**Last updated: December 18, 2024**
 
 ## 1. Introduction
 
-This Privacy Policy explains how we collect, use, and protect your information when you use our TikTok integration application ("Service").
+This Privacy Policy explains how Quote & Faith ("we", "us", "our", or "the App") collects, uses, and protects your information when you use our mobile application and related services (collectively, "Quote & Faith" or the "Service").
 
 ## 2. Information We Collect
 
@@ -30,10 +30,10 @@ We do not collect:
 
 ## 3. How We Use Your Information
 
-We use the information to:
-- Authenticate your identity
-- Provide the Service functionality
-- Improve user experience
+Quote & Faith uses the information we collect to:
+- Authenticate your identity through TikTok Login Kit
+- Provide Quote & Faith's core functionality and features
+- Improve your user experience within the App
 
 ## 4. Data Storage and Security
 
@@ -43,7 +43,7 @@ We use the information to:
 
 ## 5. Third-Party Services
 
-Our Service integrates with TikTok. Your use of TikTok features is subject to [TikTok's Privacy Policy](https://www.tiktok.com/legal/privacy-policy).
+Quote & Faith integrates with TikTok to provide authentication services. Your use of TikTok features within Quote & Faith is subject to [TikTok's Privacy Policy](https://www.tiktok.com/legal/privacy-policy).
 
 ## 6. Your Rights
 
@@ -55,16 +55,16 @@ You have the right to:
 
 ## 7. Data Retention
 
-We retain your data only as long as necessary to provide the Service. You may request deletion at any time.
+Quote & Faith retains your data only as long as necessary to provide our services. You may request deletion of your data at any time by contacting us.
 
 ## 8. Children's Privacy
 
-Our Service is not intended for users under 13 years of age. We do not knowingly collect data from children.
+Quote & Faith is not intended for users under 13 years of age. We do not knowingly collect personal data from children under 13.
 
 ## 9. Changes to This Policy
 
-We may update this Privacy Policy periodically. We will notify you of significant changes.
+Quote & Faith may update this Privacy Policy periodically. We will notify you of significant changes through the App or by other means.
 
 ## 10. Contact Us
 
-For privacy-related questions, contact us at: support@example.com
+For privacy-related questions about Quote & Faith, contact us at: support@quoteand.faith

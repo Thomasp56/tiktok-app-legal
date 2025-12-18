@@ -1,48 +1,48 @@
 ---
 layout: default
-title: Terms of Service
+title: Terms of Service - Quote & Faith
 ---
 
-# Terms of Service
+# Terms of Service for Quote & Faith
 
-**Last updated: December 17, 2024**
+**Last updated: December 18, 2024**
 
 ## 1. Acceptance of Terms
 
-By accessing or using our TikTok integration application ("Service"), you agree to be bound by these Terms of Service.
+By accessing or using Quote & Faith (the "App" or "Service"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use Quote & Faith.
 
 ## 2. Description of Service
 
-Our Service integrates with TikTok's platform to provide authentication and content interaction features. We use TikTok's Login Kit to enable secure sign-in.
+Quote & Faith is a mobile application that integrates with TikTok's platform to provide authentication and content features. Quote & Faith uses TikTok's Login Kit to enable secure sign-in to our App.
 
 ## 3. User Responsibilities
 
-You agree to:
-- Provide accurate information when using the Service
-- Not misuse or abuse the Service
+When using Quote & Faith, you agree to:
+- Provide accurate information when using the App
+- Not misuse or abuse Quote & Faith or its features
 - Comply with TikTok's Terms of Service
-- Not use the Service for any illegal purposes
+- Not use Quote & Faith for any illegal or unauthorized purposes
 
 ## 4. Data Usage
 
-We only access TikTok data that you explicitly authorize. See our [Privacy Policy](./privacy) for details on how we handle your data.
+Quote & Faith only accesses TikTok data that you explicitly authorize. See our [Privacy Policy](./privacy) for details on how Quote & Faith handles your data.
 
 ## 5. Intellectual Property
 
-All content and functionality of the Service is owned by us and protected by applicable laws.
+All content, features, and functionality of Quote & Faith are owned by us and protected by applicable intellectual property laws.
 
 ## 6. Disclaimer
 
-The Service is provided "as is" without warranties of any kind. We do not guarantee uninterrupted or error-free operation.
+Quote & Faith is provided "as is" without warranties of any kind, express or implied. We do not guarantee uninterrupted or error-free operation of the App.
 
 ## 7. Limitation of Liability
 
-We shall not be liable for any indirect, incidental, or consequential damages arising from your use of the Service.
+We shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of Quote & Faith.
 
 ## 8. Changes to Terms
 
-We may update these Terms at any time. Continued use of the Service after changes constitutes acceptance.
+Quote & Faith may update these Terms at any time. Continued use of the App after changes are posted constitutes acceptance of the revised terms.
 
 ## 9. Contact
 
-For questions about these Terms, contact us at: support@example.com
+For questions about these Terms of Service for Quote & Faith, contact us at: support@quoteand.faith
