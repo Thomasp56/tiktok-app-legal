@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.view-on-github,
+p a[href*="github.com/Thomasp56"] {
+  display: none !important;
+}
+
+header {
+  display: none !important;
+}
